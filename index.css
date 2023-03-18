@@ -45,6 +45,9 @@ header {
 header table {
     width:100%;
 }
+p{
+    font-weight:normal;
+}
 #logo {
     width:20%;
 }
